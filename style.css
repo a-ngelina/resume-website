@@ -1,10 +1,26 @@
 * {
-  box-sizing: border-box;
-}
-
-body {
-  .horizontalLine {
-    margin-top: 0.5cm;
-    height: 0.5cm;
-    color: green;
-}
+    box-sizing: border-box;
+    margin-left: 0.7cm;
+    margin-right: 0.7cm;
+    margin-bottom: 0.5cm;
+  }
+  
+  body {
+    .horizontalLine {
+      margin-top: 0.7cm;
+      margin-right: 0.7cm;
+      margin-left: 0.7cm;
+      height: 0.3cm;
+      color: rgb(51, 148, 51);
+      background-color: rgb(51, 148, 51);
+    }
+    .contactInfo {
+        color: grey;
+    }
+    .subheader {
+      color: rgb(51, 148, 51);
+    }
+    .additionalInfo {
+      color: grey;
+    }
+  }
