@@ -1,1 +1,10 @@
+* {
+  box-sizing: border-box;
+}
 
+body {
+  .horizontalLine {
+    margin-top: 10%;
+    height: 5%;
+    color: green;
+}
