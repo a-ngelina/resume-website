@@ -17,6 +17,9 @@
     .contactInfo {
         color: grey;
     }
+    .link {
+        margin: 0cm;
+    }
     .subheader {
       color: rgb(51, 148, 51);
     }
